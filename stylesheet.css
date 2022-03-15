@@ -16,7 +16,7 @@ a {
 }
 
 header {
-    height: 100px;
+    height: 144px;
     width: 100%;
     background-color: rgba(255, 255, 255, 0.9);
     position: fixed;
@@ -68,6 +68,7 @@ footer p {
 }
 
 footer {
+  height:144px;
   padding-top: 10px;
   padding-bottom:10px;
   background-color:rgba(34, 49, 52, 0.9);
