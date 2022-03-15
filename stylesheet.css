@@ -79,3 +79,7 @@ footer h2{
   margin-bottom: -5px;
   margin-top:-5px;
 }
+.Main-Sidebar{
+    background-color:red;
+    height:480px;
+}
